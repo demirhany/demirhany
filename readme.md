@@ -1,7 +1,7 @@
 # Hi 👋, I'm Demirhan Yılal  
 
 🎓 Software Engineering student at **Sakarya University**  
-🚀 Passionate about **Backend Development, Distributed Systems, System Architecture**  
+🚀 Passionate about **Backend Development and System Architecture**  
 
 ---
 
