@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=demirhany&show_icons=true&theme=radical](https://githubstats.femrek.dev/?username=demirhany&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000)" alt="GitHub Stats" height="165"/>
+  <img src="https://githubstats.femrek.dev/?username=demirhany&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&theme=react&bg_color=0000" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirhany&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
