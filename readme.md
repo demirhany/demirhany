@@ -1,16 +1,3 @@
-# Hi 👋, I'm Demirhan
-
-🎓 Software Engineering student at **Sakarya University**  
-🚀 Passionate about **Backend Development and System Architecture**  
-
----
-
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/demirhan-y-993461225/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/demirhany)  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
